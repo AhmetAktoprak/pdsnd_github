@@ -10,7 +10,7 @@ Replace the Project Title
 This project cover Introduction of version control and it contain sharebike project files. We practice our git and github commands here.
 
 ### Files used
-Here are the files I have used in this project.
+Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

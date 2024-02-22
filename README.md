@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project cover Introduction of version control and it contain sharebike project files. We practice our git and github commands here.
 
 ### Files used
 Here are the files I have used in this project.

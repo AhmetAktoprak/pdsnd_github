@@ -9,6 +9,7 @@
 Introduction to Version Control Project
 
 ### Description
+This project cover Introduction of version control and it contain sharebike project files. We practice our git and github commands here.
 
 About bikeshare project;
 
